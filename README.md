@@ -1,6 +1,6 @@
 # 🎯 Explain-a-thon AMA Platform
 
-> A lightning-fast, no-login AMA platform where experts break down complex topics through structured Q&A sessions. Built for the F1 Hackathon.
+> A lightning-fast, no-login AMA platform where experts break down complex topics through structured Q&A sessions. Built for the [F1 Hackathon](https://luma.com/n4iyk06z?tk=VGwMdq). 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/igoreydman/f1-hackathon-EAT&env=DATABASE_URL,NEXT_PUBLIC_BASE_URL)
 
@@ -26,7 +26,10 @@ Traditional AMAs are chaotic:
 3. **Experts** provide structured answers (Answer link)
 4. **Everyone** gets a clean, shareable digest
 
-![alt text](image.png)
+![screenshot of Explain-a-thon](EAT-screenshot.png)
+
+![screenshot of links](Link-screenshot.png)
+
 ## ✨ Key Features
 
 ### For Hosts
