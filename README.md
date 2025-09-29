@@ -26,6 +26,7 @@ Traditional AMAs are chaotic:
 3. **Experts** provide structured answers (Answer link)
 4. **Everyone** gets a clean, shareable digest
 
+![alt text](image.png)
 ## ✨ Key Features
 
 ### For Hosts
